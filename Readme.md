@@ -1,7 +1,8 @@
 /--Esse Projeto ensina  a usar o Git --/
 
 1. Primeiro comando de Inicialização.
-/-- $git --version 
+/-- 
+    $git --version 
     $git init 
     $git add nome do arquivo
     $git status 
