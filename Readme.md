@@ -18,6 +18,8 @@
         [Conexao-> (remote) adicionado o link de pra onde vai o push ( fazer uma unica vez) ]
     $git push -u origin main
         [ push (Empurar os arquivos commit para o repositorio) origin (é o apelido do link) main (é que essa é na raiz)  ] 
+    $git add .
+        [. -> Onde o arquivo vai ficar] 
 --/    
 2. Versionamento 
 /-- 
