@@ -23,6 +23,9 @@
 --/    
 2. Versionamento 
 /-- 
-
+    $git checkout -b "nome-da-branch"
+    $git checkout main 
+    $git merge nome-da-branch
+      
 
 --/
